@@ -1,0 +1,4 @@
+user_principal_name = "fk-user-01@example.com"
+display_name        = "FoggyKitchen User 01"
+mail_nickname       = "fk-user-01"
+password            = "ChangeMe-12345!"
